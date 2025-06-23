@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @Fabiano505
-
+Um programa para calcular a massa corporal !
 
 <!---
 Fabiano505/Fabiano505 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
